@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpeg"
+              src="https://avatars.githubusercontent.com/u/32774384?v=4"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
